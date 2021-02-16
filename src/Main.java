@@ -10,8 +10,11 @@ public class Main {
 //		Javaloops1 javlop = new Javaloops1();
 //		javlop.loops1();
 		
-		Javaloops2 javlop2 = new Javaloops2();
-		javlop2.loops2();
+//		Javaloops2 javlop2 = new Javaloops2();
+//		javlop2.loops2();
+		
+		Javadatatypes javdatTyp = new Javadatatypes();
+		javdatTyp.fitdataType();
 
 	}
 
